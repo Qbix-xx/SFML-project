@@ -1,0 +1,9 @@
+#pragma once
+#include "Apprentice.h"
+#include "Sorcerer.h"
+#include "Warlock.h"
+#include "Fighter.h"
+#include "Rogue.h"
+#include "Orc.h"
+#include "Goblin.h"
+#include "Lizard.h"
